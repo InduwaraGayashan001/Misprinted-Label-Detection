@@ -1,0 +1,8 @@
+# dataset.yaml
+path: '/content/gdrive/My Drive/Label_Checking/tmp' # dataset root dir
+train: images
+val: images
+
+nc: 2  # Number of classes
+
+names: ['Correct', 'Wrong']
