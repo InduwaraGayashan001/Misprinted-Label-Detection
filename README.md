@@ -10,6 +10,6 @@ This project aims to develop an automated system for detecting misprints on prod
 
 ## System Overview
 
-![System Overview](https://github.com/InduwaraGayashan001/Misprinted-Label-Detection/blob/main/Detection Results/system.jpg)
+![System Overview](https://github.com/InduwaraGayashan001/Misprinted-Label-Detection/blob/main/Detection_Results/system.jpg)
 
     ```
